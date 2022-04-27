@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently front-end web development
+
 ⚡ Fun fact: I love to travel ✈️ and take photograph 📷
+
 📫 You can reach me at 📧 m.izza.al.04@gmail.com
 
 <!--
