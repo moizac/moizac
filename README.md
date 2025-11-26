@@ -3,7 +3,7 @@
 
 ⚡ Fun fact: I love to travel ✈️ and take photograph 📷
 
-📫 You can reach me at 📧 m.izza.al.04@gmail.com
+📫 You can reach me at 📧 izzaauladina@gmail.com
 
 <!--
 **moizac/moizac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
